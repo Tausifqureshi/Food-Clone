@@ -1,4 +1,4 @@
-# Food Order Website Clone
+# Online Food Delivery Website Clone
 
 A web application for food order.
 
